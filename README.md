@@ -13,7 +13,7 @@ I'm a passionate software developer with a strong focus on web development. My j
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -31,16 +31,13 @@ I'm a passionate software developer with a strong focus on web development. My j
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekgan01&show_icons=true&theme=radical&count_private=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekgan01&layout=compact&theme=radical)
 
-## 🔗 Projects
-### Responsive Blog Application
-- *Description:* A fully functional blog built with Django and styled with Bootstrap 5.
-- *Tech Stack:* Python, Django, HTML, CSS, Bootstrap
-- *Repository:* [Link to the repository]([https://github.com/abhishekgan01/yourblogproject](https://github.com/Abhishekgan01/Django-Project-Blog)
-- ![Blog Application](https://img.shields.io/badge/Project_Blog_Application-009688?style=for-the-badge&logo=django&logoColor=white)
-
 ## 🌟 Featured Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekgan01&repo=Machine-Learning-&theme=radical)](https://github.com/Abhishekgan01/Machine-Learning-/blob/main/ML%20Project-%20Medical_Insurance_Cost_Prediction_Main.ipynb))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekgan01&repo=Django-Project-Blog&theme=radical)](https://github.com/Abhishekgan01/Django-Project-Blog))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekgan01&repo=Responsive-Blog-App&theme=radical)](https://github.com/Abhishekgan01/Responsive-Blog-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekgan01&repo=flask_todo_app&theme=radical)](https://github.com/Abhishekgan01/flask_todo_app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekgan01&repo=web_scraping&theme=radical)](https://github.com/Abhishekgan01/web_scraping)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekgan01&repo=Machine-Learning-Projects&theme=radical)](https://github.com/Abhishekgan01/Machine-Learning-Projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekgan01&repo=Data-Science-Projects&theme=radical)](https://github.com/Abhishekgan01/Data-Science-Projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekgan01&repo=Algorithms-and-Data-Structures&theme=radical)](https://github.com/Abhishekgan01/Algorithms-and-Data-Structures)
 
 ## 📄 Certifications
 - 🏆 ![Python Django Basics to Advance](https://img.shields.io/badge/Python_Django_Basics_to_Advance-blue?style=for-the-badge&logo=certification&logoColor=white)
@@ -76,8 +73,8 @@ Welcome to the Responsive Blog Application! This project is a fully functional b
 
 ## Screenshots
 
-![Home Page](screenshots/home_page.png)
-![Blog Post](screenshots/blog_post.png)
+![Home Page](https://github.com/Abhishekgan01/Django-Project-Blog/screenshots/home_page.png)
+![Blog Post](https://github.com/Abhishekgan01/Django-Project-Blog/screenshots/blog_post.png)
 
 ## Getting Started
 
@@ -94,5 +91,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/yourblogproject.git
-cd yourblogproject
+git clone https://github.com/Abhishekgan01/Django-Project-Blog.git
+cd Django-Project-Blog
