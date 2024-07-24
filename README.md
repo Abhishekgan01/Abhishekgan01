@@ -34,7 +34,7 @@ I'm a passionate software developer with a strong focus on web development. My j
 ### Responsive Blog Application
 - *Description:* A fully functional blog built with Django and styled with Bootstrap 5.
 - *Tech Stack:* Python, Django, HTML, CSS, Bootstrap
-- *Repository:* [Link to the repository](https://github.com/abhishekgan01/yourblogproject)
+- *Repository:* [Link to the repository]([https://github.com/abhishekgan01/yourblogproject](https://github.com/Abhishekgan01/Django-Project-Blog)
 - ![Blog Application](https://img.shields.io/badge/Project_Blog_Application-009688?style=for-the-badge&logo=django&logoColor=white)
 
 ## 🌟 Featured Repositories
