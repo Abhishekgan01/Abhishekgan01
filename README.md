@@ -39,7 +39,7 @@ I'm a passionate software developer with a strong focus on web development. My j
 
 ## 🌟 Featured Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekgan01&repo=Machine-Learning-&theme=radical)](https://github.com/Abhishekgan01/Machine-Learning-/blob/main/ML%20Project-%20Medical_Insurance_Cost_Prediction_Main.ipynb))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Django-Blog-Project&repo=&theme=radical)](https://github.com/Abhishekgan01/Django-Project-Blog))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekgan01&repo=Django-Project-Blog&theme=radical)](https://github.com/Abhishekgan01/Django-Project-Blog))
 
 ## 📄 Certifications
 - 🏆 ![Python Django Basics to Advance](https://img.shields.io/badge/Python_Django_Basics_to_Advance-blue?style=for-the-badge&logo=certification&logoColor=white)
