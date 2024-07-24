@@ -38,7 +38,7 @@ I'm a passionate software developer with a strong focus on web development. My j
 - ![Blog Application](https://img.shields.io/badge/Project_Blog_Application-009688?style=for-the-badge&logo=django&logoColor=white)
 
 ## 🌟 Featured Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekgan01&repo=Medical_Insurance_Cost_Prediction_Main.ipynb&theme=radical)](https://github.com/Abhishekgan01/Machine-Learning-/blob/main/ML%20Project-%20Medical_Insurance_Cost_Prediction_Main.ipynb))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekgan01&repo=Machine-Learning-&theme=radical)](https://github.com/Abhishekgan01/Machine-Learning-/blob/main/ML%20Project-%20Medical_Insurance_Cost_Prediction_Main.ipynb))
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekgan01&repo=yourblogproject&theme=radical)](https://github.com/abhishekgan01/yourblogproject)
 
 ## 📄 Certifications
